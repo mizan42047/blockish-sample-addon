@@ -1,0 +1,12 @@
+{
+  "apiVersion": 2,
+  "name": "blockish-sample-addon/feature-note",
+  "title": "Feature Note",
+  "description": "Highlight key content with heading and note text.",
+  "category": "design",
+  "icon": "info",
+  "textdomain": "blockish-sample-addon",
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "editorStyle": "file:./index.css"
+}

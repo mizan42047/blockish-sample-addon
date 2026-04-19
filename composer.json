@@ -1,0 +1,12 @@
+{
+  "name": "blockish/blockish-sample-addon",
+  "description": "Sample addon plugin for Blockish with config-driven block and extension registration.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "BlockishSampleAddon\\": "includes/"
+    }
+  },
+  "require": {}
+}

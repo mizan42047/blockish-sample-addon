@@ -1,0 +1,12 @@
+{
+  "name": "blockish-sample-addon/sample-addon-extension",
+  "title": "Sample Addon Extension",
+  "include": ["blockish/*"],
+  "attributes": {
+    "sampleAddonBadge": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "editorScript": "file:./index.js"
+}
